@@ -3,6 +3,7 @@
     object-fit: contain;
     height: 448px;
     position: relative;
+    margin-top: 60px;
   }
   
   .banner__contents {
